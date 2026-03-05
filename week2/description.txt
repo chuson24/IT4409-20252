@@ -1,0 +1,20 @@
+BÀI 1 – Trang thông tin lịch học
+
+Mô tả:
+
+Trang web này được tạo bằng HTML thuần, không sử dụng CSS hay JavaScript. 
+Trang gồm phần header hiển thị tiêu đề và phần thông tin sinh viên gồm họ tên, MSSV và ảnh chân dung. Bên dưới là bảng thời khóa biểu được tạo bằng thẻ <table>, có sử dụng <caption> để đặt tiêu đề cho bảng. 
+Trong bảng có các cột: tên môn học, giảng viên, thời gian học và phòng học. 
+Cuối bảng có một đoạn văn ngắn thể hiện cảm nhận về lịch học. 
+Trang web sử dụng cấu trúc semantic HTML gồm header, section và footer để đảm bảo đúng chuẩn.
+
+BÀI 2 – Trang giao diện Google Search
+
+Mô tả:
+
+Trang web này mô phỏng giao diện tìm kiếm của Google bằng HTML thuần. 
+Trang gồm phần header hiển thị tên Google và phần chính chứa một form tìm kiếm. 
+Form sử dụng phương thức GET và gửi dữ liệu đến trang tìm kiếm của Google. 
+Trang có ô nhập từ khóa và nút tìm kiếm để người dùng nhập nội dung. 
+Ngoài ra, trang có footer hiển thị MSSV và ngày tạo. 
+Toàn bộ trang được xây dựng theo cấu trúc semantic HTML và không sử dụng CSS hoặc JavaScript theo yêu cầu bài tập.
